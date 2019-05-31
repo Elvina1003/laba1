@@ -1,0 +1,46 @@
+.div1{
+    border-width:1;
+    border-color: black;
+    border-style: solid;
+    width: 75px;
+    height: 150px;
+    display: flex;
+    margin:200px  25% 0 25% ;
+    float:left;
+    position: absolute;
+}
+
+.div2{
+    border-width:1;
+    border-color: black;
+    border-style: solid;
+    width: 75px;
+    height: 300px;
+    display: flex;
+    margin:50px 50% 0 50%;
+    float:right;
+}
+
+.div3{
+    border-width:1;
+    border-color: black;
+    border-style: solid;
+    height: 90px;
+    width: 900px;
+    display: flex;
+    margin:30px 50% 0 25.2%;
+    position: absolute;
+    top: 350px;
+    left: -5px;
+}
+
+.div4{
+    border-width:1;
+    border-color: black;
+    border-style: solid;
+    width: 75px;
+    height: 300px;
+    display: flex;
+    margin:127px 50% 0 50%;
+    float:right;
+}
